@@ -1,0 +1,21 @@
+Find all products whose rating is higher than the overall average rating of all products.
+
+Find products that belong to the brand with the highest number of products.
+
+Find all products whose discounted price is greater than the average discounted price.
+
+Find products belonging to brands whose average rating is above 4.0.
+
+Find products that have the maximum marked price in the dataset.
+
+Intermediate Subquery Questions (Myntra Dataset)
+
+Find products belonging to the top 3 brands by product count.
+
+Find products whose rating is higher than the average rating of their own brand.
+
+Find brands whose average discounted price is greater than the overall average discounted price.
+
+Find products whose marked price is greater than the average marked price of products in the same category.
+
+Find all products belonging to brands that have more products than the average number of products per brand.
