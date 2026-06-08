@@ -1,0 +1,13 @@
+# Easy Window Function Questions
+Display each product along with a row number based on rating in descending order.
+Assign a rank to all products based on their rating using RANK().
+Assign a dense rank to all products based on their rating using DENSE_RANK().
+Assign a row number to products within each brand based on rating in descending order.
+Display each product along with the average rating of its brand using a window function.
+
+# Intermediate Window Function Questions
+Find the top 3 highest-rated products within each brand using DENSE_RANK().
+Rank products within each category based on discounted price, with the most expensive product getting Rank 1.
+Find the highest-rated product from each brand using ROW_NUMBER().
+Display each product along with the total number of products available under its brand using COUNT() OVER(PARTITION BY brand_name).
+Show each product along with the maximum discounted price within its brand and identify whether it is the most expensive product of that brand.
