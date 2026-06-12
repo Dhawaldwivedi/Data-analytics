@@ -817,12 +817,3 @@ else:
 ```
 
 ---
-
-If you found this helpful, please consider following or starring the repository!
-
-Follow me on:
-- [LinkedIn](https://www.linkedin.com/in/ashish-jangra/)
-- [GitHub](https://github.com/AshishJangra27)
-- [Kaggle](https://www.kaggle.com/ashishjangra27)
-
-Stay updated with my latest content and projects!
