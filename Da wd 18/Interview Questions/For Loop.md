@@ -1208,11 +1208,3 @@ for i in range(n):
 
 
 ---
-If you found this repository helpful, please give it a star!
-
-Follow me on:
-- [LinkedIn](https://www.linkedin.com/in/ashish-jangra/)
-- [GitHub](https://github.com/AshishJangra27)
-- [Kaggle](https://www.kaggle.com/ashishjangra27)
-
-Stay updated with my latest content and projects!
