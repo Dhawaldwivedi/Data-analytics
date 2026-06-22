@@ -1,6 +1,6 @@
 # LinkedIn Optimization 
 
-**Following are some of the ways to enhance your linkein profile so that the recuriters can notice you more frequently and you have better chances of getting shortlisted**
+**Following are some of the ways to enhance your linkedin profile so that the recruiters can notice you and you have better chances of getting shortlisted**
 
 - Professional Photo
 - Custom URL
